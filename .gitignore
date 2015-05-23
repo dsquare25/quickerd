@@ -23,3 +23,6 @@
 
 # Debug files
 *.dSYM/
+
+#swp files
+*.swp
